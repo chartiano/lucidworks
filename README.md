@@ -8,3 +8,8 @@ docker run --rm=true --name postgres-img -e POSTGRES_USER=user -e POSTGRES_PASSW
 
 ./mvnw compile quarkus:dev
 
+### Postman
+import the  collection
+
+postman_collection.json
+
