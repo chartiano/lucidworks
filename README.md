@@ -13,7 +13,7 @@ import the  collection
 
 postman_collection.json
 
-###To scale to millions of users
+### To scale to millions of users
 
 - the getAllmethods , must have pagination, or a filter, 
 - the getByID method, can be configured on redist , to cache the most used
